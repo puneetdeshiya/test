@@ -3,6 +3,7 @@
 This project outlines a CI/CD pipeline setup for automating the deployment of a Node.js application using Jenkins, SonarQube for SAST, Docker, Docker Hub, and a Kubernetes cluster on AWS.
 
 # Prerequisites
+#helloooooooo
 ## Ensure the following are installed and configured:
  * Jenkins: Installed and configured with plugins for GitHub, SonarQube, Docker, and Kubernetes.
  * GitHub Repository: A repository containing the Node.js application.
